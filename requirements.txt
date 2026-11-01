@@ -1,0 +1,14 @@
+altgraph==0.17.5
+certifi==2026.10.23
+charset-normalizer==3.5.2
+customtkinter==6.0.0
+darkdetect==0.8.0
+idna==3.20
+macholib==1.16.4
+packaging==26.3
+pyinstaller==6.22.3
+pyinstaller-hooks-contrib==2026.9
+pyserial==3.5
+requests==2.34.2
+setuptools==84.2.1
+urllib3==2.8.0
